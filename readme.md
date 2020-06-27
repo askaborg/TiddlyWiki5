@@ -10,7 +10,7 @@
 ### https://wunderlist3.herokuapp.com/api/auth
 
 # Category API (requires jsonwebtoken)
-## headers:{ authorization: `Bearer ${token}` }
+## <code>headers:{ authorization: `Bearer ${token}` }</code>
 ## Get current user's categories
 ### https://wunderlist3.herokuapp.com/api/category
 
